@@ -12,11 +12,13 @@ Links
 Requirements
 ============
 
+* this package
 * ROOT
 * Python version >=2.7 or >=3.2 (for argparse and ctypes)
 
 On the lx-machines, all you need to do is
 
+    git clone git@github.com:ichep-coders-club/ctypes-demo
     source setup.sh
 
 Example 1
